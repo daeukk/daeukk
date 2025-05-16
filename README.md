@@ -6,7 +6,7 @@ Hello, I am Daeuk, and I specialize in applying computer vision and machine lear
 
 **📚 Projects**
 
-Portfolio guide can be found [here](https://github.com/daeukk/Portfolio-Guide)
+Portfolio guide can be found [here](https://github.com/daeukk/Portfolio-Guide).
 
 **🛠️ Tools**
 - SQL, Python, C++, Flutter, Matlab
